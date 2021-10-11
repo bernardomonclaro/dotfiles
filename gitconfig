@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = bernardomonclaro@gmail.com
+	name = Bernardo Lima
